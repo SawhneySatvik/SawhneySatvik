@@ -1,6 +1,9 @@
 # 💫 About Me
-Hey, my name is Satvik Sawhney and I am 19 years old currently enrolled in BTech Computer Science from SRM IST and BS Data Science and Applications from IIT Madras Apart from these I am really into Web Development and AI I have worked on a couple of AI Web applications and currently working on some too.
+Hey, my name is Satvik Sawhney and I am 19 years old.
 
+I am a Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning, pursuing a BTech degree at SRM Institute of Science and Technology. Additionally, I am enrolled in the BSc Data Science and Applications program at the Indian Institute of Technology, Madras.
+
+Currently, I am learning Web Development and Artificial Intelligence. I have made a few AI Web Applications and currently am workimg on some more. You will be able to view those on this Github page soon. I am enthusiastic about leveraging my technical skills to drive innovation and solve real-world challenges. Let's connect and explore opportunities together!
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/satvik0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sawhneysatvik/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sawhneysatvik/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/SawhneySatvik) 
