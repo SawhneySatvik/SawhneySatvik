@@ -1,5 +1,5 @@
 # 💫 About Me
-Hey, my name is Satvik Sawhney and I am 19 years old <br>currently enrolled in BTech Computer Science from SRM IST and<br>BS Data Science and Applications from IIT Madras<br>Apart from these I am really into Web Development and AI <br>I have worked on a couple of AI Web applications and <br> currently working on some too.
+Hey, my name is Satvik Sawhney and I am 19 years old currently enrolled in BTech Computer Science from SRM IST and BS Data Science and Applications from IIT Madras Apart from these I am really into Web Development and AI I have worked on a couple of AI Web applications and currently working on some too.
 
 
 ## 🌐 Socials
