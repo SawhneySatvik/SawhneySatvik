@@ -15,6 +15,8 @@ Hey, my name is Satvik Sawhney and I am 19 years old.<br><br>I am a Computer Sci
 ![](https://github-profile-trophy.vercel.app/?username=sawhneysatvik&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br/>
+<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sawhneysatvik&icon=0&color=12)](https://visitcount.itsvg.in)
