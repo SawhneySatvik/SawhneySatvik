@@ -9,7 +9,6 @@ Hey, my name is Satvik Sawhney and I am 19 years old.<br><br>I am a Computer Sci
 # GitHub Stats:
 ![       ](https://github-readme-stats.vercel.app/api?username=sawhneysatvik&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![       ](https://github-readme-streak-stats.herokuapp.com/?user=sawhneysatvik&theme=nord&hide_border=false)<br/>
-![       ](https://github-readme-stats.vercel.app/api/top-langs/?username=sawhneysatvik&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 #  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sawhneysatvik&theme=nord&no-frame=false&no-bg=false&margin-w=4)
